@@ -14,11 +14,16 @@
 <h4>Installation</h4>
 
 <ol>
-  <li>Download the repository <a href="https://github.com/WeponzTV/Image-Slideshow-Loading-Screen">here</a>.</li>
-  <li>Extract the folder and upload it to your FiveM server.</li>
+  <li>Download the repository <a href="https://github.com/DamonOnYT/FiveM-Loadscreen">here</a>.</li>\
+  <li>Extract the folder and open up html/js/main.js</li>
+  <li>Edit any images links in there with your own</li>
+  <li>Upload it to your FiveM server.</li>
   <li>Add the resource to your server.cfg file.</li>
 </ol>
 
 <br>
 
 <p>Special thanks to <a href="https://github.com/nightowlsrp">nightowlsrp</a> for the progress bar code.</p>
+<p>Originally developed by <a href="https://github.com/WeponzTV">WeponzTV</a></p>
+
+
