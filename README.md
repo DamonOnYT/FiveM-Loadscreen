@@ -14,7 +14,7 @@
 <h4>Installation</h4>
 
 <ol>
-  <li>Download the repository <a href="https://github.com/DamonOnYT/FiveM-Loadscreen">here</a>.</li>\
+  <li>Download the repository <a href="https://github.com/DamonOnYT/FiveM-Loadscreen">here</a>.</li>
   <li>Extract the folder and open up html/js/main.js</li>
   <li>Edit any images links in there with your own</li>
   <li>Upload it to your FiveM server.</li>
